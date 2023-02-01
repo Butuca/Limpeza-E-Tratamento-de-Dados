@@ -1,0 +1,3 @@
+# Limpeza-E-Tratamento-de-Dados
+O intuito deste Excercicio é fazer a limpeza e o tratamento dos dados, 
+como por exemplo substituir os campos nulos por dados que fiquem dentro dos parametros fornecidos...
